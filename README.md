@@ -12,6 +12,7 @@ Download [Toggle Function Keys.alfredworkflow](https://github.com/stirtingale/Al
 
 Bind keys to whatever you need. Default *control + escape*
 
+![Alfred workflows](AlfredWorkflows.png)
 
 ### Why?
 
